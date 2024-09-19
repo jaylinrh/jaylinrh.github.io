@@ -6,9 +6,15 @@ h1 {
     text-align: center;
     color:darkblue;
 }
-.about h2 {
+.about {
     color: lightblue;
 }
 .skills {
     color:yellow;
+}
+.projects {
+    color:green;
+}
+.contact {
+    color:red;
 }
