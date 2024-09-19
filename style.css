@@ -6,8 +6,8 @@ h1 {
     text-align: center;
     color:darkblue;
 }
-.about {
-    color:red;
+.about h2 {
+    color: lightblue;
 }
 .skills {
     color:yellow;
