@@ -14,6 +14,15 @@ h1 {
 }
 .projects {
     color:green;
+    display:flex; flex-wrap:wrap;
+}
+
+.project {
+width: 30%;
+margin: 10px;
+padding: 20px 10px;
+background: white; /* pick a color */
+border-radius: 25%;
 }
 .contact {
     color:red;
