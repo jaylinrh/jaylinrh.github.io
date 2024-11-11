@@ -24,6 +24,9 @@ padding: 20px 10px;
 background: white; /* pick a color */
 border-radius: 25%;
 }
+.project h3 { /* change the appearance of paragraph tags inside .project divs */
+text-align: center;
+}
 .project img {
 width: 300px;
 height: 300px;
